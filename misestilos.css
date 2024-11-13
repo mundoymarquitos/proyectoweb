@@ -1,0 +1,18 @@
+h1{
+font-family:'Courier New', Courier, monospace;
+color:red;
+}
+p{
+color:blue;
+font-family: Arial, Helvetica, sans-serif;
+border:10px; border-style: solid;
+font-size: 16px;
+border: 1px; border-style: solid;
+margin: 20px;
+padding: 10px;
+width: 80%;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    color:green;
+    }
